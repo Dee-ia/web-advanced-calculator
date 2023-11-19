@@ -1,5 +1,5 @@
 # Advanced Calculator
-An advanced calculator built with Django. Still in development though!
+An advanced calculator built with Django.
 
 ## Setup
 
